@@ -1,8 +1,0 @@
-{
-  "cpu_limit": 32,
-  "cpu_used": 8,
-  "cpu_request": 4,
-  "memory_limit_gib": 64,
-  "memory_used_gib": 24,
-  "memory_request_gib": 8
-}

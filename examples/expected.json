@@ -1,5 +1,0 @@
-{
-  "cpu_headroom": 20,
-  "memory_headroom_gib": 32,
-  "within_quota": true
-}
